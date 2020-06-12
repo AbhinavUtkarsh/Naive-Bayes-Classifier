@@ -16,3 +16,6 @@ The trained model was tested with these example tests to get an intuitive feelin
 Here are the classification metrics of the trained model
 
 ![metrics](https://abhinavutkarsh728.s3.amazonaws.com/metrics.png)
+
+###### Notes:
+* The original presentation was created in keynotes so the animations might not work as well in Microsoft Powerpoint.
